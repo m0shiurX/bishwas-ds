@@ -6,3 +6,8 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+// Table cells
+.table th, .table td {
+    vertical-align: middle;
+}
